@@ -1,0 +1,25 @@
+.centering {
+  text-align: center;
+}
+
+#centerContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#mainItem {
+  border-radius: 25px;
+  max-width: 800px;
+  width: 75%;
+}
+
+#secondaryItem {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#navIcon {
+  padding: 5px;
+}
+
